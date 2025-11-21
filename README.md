@@ -1,7 +1,6 @@
 # Deep-Learning-Exp5
 
-DL-Implement a Recurrent Neural Network model for stock price prediction.
-
+DL-Implement an Object Detection using CNN
 **AIM**
 
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
